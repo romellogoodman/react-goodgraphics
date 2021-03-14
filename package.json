@@ -1,0 +1,31 @@
+{
+  "name": "react-goodgraphics",
+  "version": "1.0.0",
+  "description": "A set of components for working with SVGs in React.",
+  "source": "react-goodgraphics.js",
+  "main": "dist/react-goodgraphics.js",
+  "exports": "dist/react-goodgraphics.modern.js",
+  "module": "dist/react-goodgraphics.module.js",
+  "unpkg": "dist/react-goodgraphics.umd.js",
+  "dependencies": {
+    "microbundle": "^0.13.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romellogoodman/react-goodgraphics.git"
+  },
+  "keywords": [],
+  "author": "Romello Goodman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romellogoodman/react-goodgraphics/issues"
+  },
+  "homepage": "https://github.com/romellogoodman/react-goodgraphics#readme"
+}
