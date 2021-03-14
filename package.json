@@ -1,6 +1,6 @@
 {
   "name": "react-goodgraphics",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A set of components for working with SVGs in React.",
   "source": "react-goodgraphics.js",
   "main": "dist/react-goodgraphics.js",
