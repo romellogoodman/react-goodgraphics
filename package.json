@@ -14,8 +14,9 @@
     "react": "^17.0.1"
   },
   "scripts": {
+    "dev": "microbundle watch",
     "build": "microbundle",
-    "dev": "microbundle watch"
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
