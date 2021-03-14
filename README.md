@@ -37,7 +37,7 @@ export default FooBar;
 
 NOTE: Detailed are props that we map to the native SVG markup. i.e. the `x` and `y` props on Circle get mapped to `cx` and `cy`. All valid html attributes are accepted and passed to the components.
 
-### SVG
+### `SVG`
 
 - `@prop {Number} height` Height of the svg. Defaults to 200.
 - `@prop {Number} width` Width of the svg. Defaults to 200.
