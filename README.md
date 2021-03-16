@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/react-goodgraphics.svg)](https://badge.fury.io/js/react-goodgraphics)
 
-A set of components for working with SVGs in React. This library is a very thin-wrapper over native SVG functionality.
+A set of components for working with SVGs in React. This library is a very thin-wrapper over native SVG functionality. This project is part of goodgraphics.xyz
 
 ## Usage
 
