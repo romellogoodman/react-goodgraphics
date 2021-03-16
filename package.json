@@ -15,7 +15,7 @@
   },
   "scripts": {
     "dev": "microbundle watch",
-    "build": "microbundle",
+    "build": "microbundle --jsx React.createElement",
     "prepublish": "npm run build"
   },
   "repository": {
